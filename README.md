@@ -1,4 +1,3 @@
-
 This website is for a recording studio I used to run in Taipei, Taiwan. The page is designed to promote my current and past audio work by showcasing some of my portfolio to potential clients, and serve as a record of the studio.
 
 
