@@ -1,8 +1,14 @@
 
-.exampleClass{
+.button {
+  background-color: white;
+  color: black;
+  opacity: 80%;
+}
+
+.accordion button:hover {
   background-color: black;
-  opacity: 90%;
   color: white;
+  opacity: 80%;
 }
 
 .fade-in {
