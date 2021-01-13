@@ -1,10 +1,10 @@
-.accordion-flush: button {
+.accordion-flush button {
   background-color: white;
   color: black;
   opacity: 80%;
 }
 
-.accordion-flush: button:hover {
+.accordion-flush button:hover {
   background-color: black;
   color: white;
   opacity: 80%;
