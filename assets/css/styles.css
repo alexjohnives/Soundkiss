@@ -8,10 +8,6 @@
   background-color: transparant;
 }
 
-.accordion-header {
-  font-size: 30px;
-}
-
 .accordion-body {
   font-size:18px;
 }
@@ -37,6 +33,10 @@
 
 .accordion-flush button:collapsed {
   color: white
+}
+
+.card-title {
+  font-size: 8px;
 }
 
 .fade-in {
