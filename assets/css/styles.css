@@ -1,5 +1,12 @@
 
+.navbar-toggler{
+  border: none;
+}
 
+.navbar-toggler:focus{
+  box-shadow: none;
+
+}
 
 .accordion-flush button{
   background-color:white;
