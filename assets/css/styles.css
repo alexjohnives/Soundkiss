@@ -8,6 +8,10 @@
   background-color: transparant;
 }
 
+p.aboutp {
+  font-size:18px;
+}
+
 .accordion-flush button{
   background-color:white;
   color: black;
