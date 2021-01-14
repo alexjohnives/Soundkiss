@@ -5,7 +5,7 @@
 
 .navbar-toggler:focus{
   box-shadow: none;
-
+  background-color: transparant;
 }
 
 .accordion-flush button{
