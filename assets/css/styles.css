@@ -8,6 +8,10 @@
   background-color: transparant;
 }
 
+.accordion-header {
+  font-size: 30px;
+}
+
 .accordion-body {
   font-size:18px;
 }
@@ -15,7 +19,8 @@
 .accordion-flush button{
   background-color:white;
   color: black;
-  opacity: 100%;
+  opacity: 80%;
+  font-size: 20px;
 }
 
 .accordion-flush button:focus{
