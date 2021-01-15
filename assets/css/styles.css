@@ -35,9 +35,14 @@
   color: white
 }
 
+.card {
+  border: none;
+}
+
 .card-title {
   font-size: 8px;
 }
+
 
 .fade-in {
   animation: fadeIn ease 5s;
